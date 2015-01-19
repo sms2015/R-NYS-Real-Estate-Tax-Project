@@ -9,7 +9,7 @@ relative to inflation and income for New York State counties. While it would be 
 to look at data before 2004, in order to limit the scope of this project will focus just on
 the 2004 to 2012 period.
 
-R Studio was used for this analyis.  
+R Studio was used for this analysis.  
 Included in this directory is the code which appears in the .rmd file in this directory,
 the pdf report created from this R Markdown file, and the pdf presentation also created 
 using R Markdown.
