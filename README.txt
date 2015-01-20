@@ -1,4 +1,4 @@
-New York Property Taxes vs Inflation and Income, 2011 vs 2004
+New York State Property Taxes vs Inflation and Income, 2011 vs 2004
 
 PROJECT SCOPE
 This project analyzes property tax rate changes in New York State counties and how these
